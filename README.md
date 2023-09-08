@@ -4,3 +4,4 @@ The project includes the utilization of various libraries like numpy, pandas , m
 Run this code on Jupyter Notebook.
 # Hardware
 Additionally, integrated NodeMCU and MPU6050 sensor for displaying health statistics such as calories burned and step count on serial monitor.
+Run this on arduino ide
